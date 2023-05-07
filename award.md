@@ -68,10 +68,10 @@ layout: default
 ○笠間貴弘, 井上大介(NICT)
 
 ### 2015年度
-[(ICSS2015-10)攻撃インフラの時系列変動特性に基づく悪性ドメイン名の検知法](https://www.ieice.org/ken/paper/20150612ybaK/)
+[(ICSS2015-10)攻撃インフラの時系列変動特性に基づく悪性ドメイン名の検知法](https://www.ieice.org/ken/paper/20150612ybaK/)  
 ○千葉大紀(NTT/早大), 八木 毅, 秋山満昭(NTT), 森 達哉(早大), 矢田 健, 針生剛男(NTT), 後藤滋樹(早大)
 
-[(ICSS2015-59)隠れマルコフモデルに基づくROPチェーン静的検知手法](https://www.ieice.org/ken/paper/20160304Cb68/)
+[(ICSS2015-59)隠れマルコフモデルに基づくROPチェーン静的検知手法](https://www.ieice.org/ken/paper/20160304Cb68/)  
 ○碓井利宣, 幾世知範, 岩村 誠, 矢田 健(NTT)
 
 ### 2014年度
@@ -95,7 +95,7 @@ layout: default
 ○大東俊博(広島大), 五十部孝典(ソニー), 渡辺優平(神戸大), 野島 良(NICT), 森井昌克(神戸大)
 
 ### 2012年度
-[(ICSS2012-61)Finding Malicious Authoritative DNS Servers](https://www.ieice.org/ken/paper/20130325BB2U/)
+[(ICSS2012-61)Finding Malicious Authoritative DNS Servers](https://www.ieice.org/ken/paper/20130325BB2U/)  
 ○Yin Minn Pa Pa, Daisuke Makita, Katsunari Yoshioka, Tsutomu Matsumoto (Yokohama National Univ.)
 
 [(ICSS2012-8)マルウェアのオペコードに着目した高速な分類手法](https://www.ieice.org/ken/paper/20120622d0Sj/)  
