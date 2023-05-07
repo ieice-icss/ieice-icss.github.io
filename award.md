@@ -7,5 +7,5 @@ layout: default
 ## 目的
 優れた研究や将来性のある研究を対象に、ICSS研究会における1年間の発表を通して審査し、情報通信システムセキュリティ研究賞を表彰します。招待講演は対象としません。本賞の対象は複数の場合があります。
 
-[選奨規定](./_files/award-r4.pdf)
+[選奨規定](https://github.com/ieice-icss/ieice-icss.github.io/raw/main/_files/award-r4.pdf)
 
