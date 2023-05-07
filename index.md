@@ -63,7 +63,14 @@ layout: default
 | 第65回研究会     | 2023/11/XX-XX | 未定		|-						|
 | 第66回合同研究会 | 2024/03/XX-XX | 未定(沖縄県予定)	|IPSJ-SPT					|
 
-# 連絡先
+# リンク集
+[ICSS研について](https://ieice-icss.github.io/about.html)
+[ICSS研究賞](https://ieice-icss.github.io/award.html)
+[メーリングリスト](https://ieice-icss.github.io/ml.html)
+
+
+
+# 問い合わせ
 ICSS研究会に関するお問い合わせは、以下連絡先までお願いいたします。
 
 [icss-adm-req@mail.ieice.org](<mailto:icss-adm-req@mail.ieice.org>)
