@@ -1,5 +1,6 @@
 ---
 layout: default
+title: トップページ
 ---
 
 # お知らせ
