@@ -65,6 +65,7 @@ layout: default
 
 # リンク集
 - [ICSS研について](https://ieice-icss.github.io/about.html)
+- [ICSS研専門委員会](https://ieice-icss.github.io/committee.html)
 - [ICSS研究賞](https://ieice-icss.github.io/award.html)
 - [メーリングリスト](https://ieice-icss.github.io/ml.html)
 
