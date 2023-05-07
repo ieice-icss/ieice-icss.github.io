@@ -20,5 +20,5 @@ layout: default
 [(ICSS2021-39)ID/Password設定に不備のあるIoT機器におけるマルウェア感染可能性の大規模調査](https://www.ieice.org/ken/paper/20210720TC45/)  
 ○村上洸介, 笠間貴弘, 井上大介(NICT)
 
-[(ICSS2021-61)重要施設に設置されたIoT機器のインターネット全域探索](https://www.ieice.org/ken/paper/20220307xCiv/)
+[(ICSS2021-61)重要施設に設置されたIoT機器のインターネット全域探索](https://www.ieice.org/ken/paper/20220307xCiv/)  
 ○平工瑞希, 佐々木貴之, 吉岡克成, 松本勉(横浜国大)
