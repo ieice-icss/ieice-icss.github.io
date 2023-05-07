@@ -74,4 +74,4 @@ layout: default
 # 問い合わせ
 ICSS研究会に関するお問い合わせは、以下連絡先までお願いいたします。
 
-[icss-adm-req@mail.ieice.org](<mailto:icss-adm-req@mail.ieice.org>)
+![幹事団](add.gif)
