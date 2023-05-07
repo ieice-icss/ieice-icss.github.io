@@ -66,5 +66,4 @@ layout: default
 # 連絡先
 ICSS研究会に関するお問い合わせは、以下連絡先までお願いいたします。
 
-![inquiry](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
+[icss-adm-req@mail.ieice.org](<mailto:icss-adm-req@mail.ieice.org>)
