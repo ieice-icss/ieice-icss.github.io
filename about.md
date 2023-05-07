@@ -1,5 +1,6 @@
 ---
 layout: default
+title: ICSS研究会について
 ---
 
 # ICSS研究会について
