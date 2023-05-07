@@ -8,8 +8,8 @@ layout: default
 
 ### 開催概要
 
-|開催日程	|2023/07/24-25		|
-|会場		|北海道自治労会館	|
+|開催日程	|2023/07/24(月)-25(火)		|
+|会場		|北海道自治労会館(現地開催のみ)	|
 |テーマ		|セキュリティ、一般	|
 
 - [発表申込(受付中)](https://ken.ieice.org/ken/form/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
@@ -33,9 +33,9 @@ layout: default
 
 ### 開催概要
 
-|開催日程	|2023/06/20-21				|
-|会場		|佐賀大学/オンライン(ハイブリッド開催)	|
-|テーマ		|インターネットセキュリティ、一般	|
+|開催日程	|2023/06/20(火)-21(水)				|
+|会場|佐賀大学/オンライン(ハイブリッド開催)	|
+|テーマ    |インターネットセキュリティ、一般	|
 
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
 - [参加申込フォーム(TBA)]()
