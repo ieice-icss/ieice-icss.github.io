@@ -7,9 +7,9 @@ layout: default
 ## 第64回合同研究会(Security Summer Summit)を開催します
 
 {.note} 開催概要
-:
-|開催日程	|2023/07/24(月)-25(火)		|
-|会場		|北海道自治労会館(現地開催のみ)	|
+:  
+|開催日程	|2023/07/24(月)-25(火)		|  
+|会場		|北海道自治労会館(現地開催のみ)	|  
 |テーマ		|セキュリティ、一般	|
 
 - [発表申込(受付中)](https://ken.ieice.org/ken/form/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
