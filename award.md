@@ -1,5 +1,6 @@
 ---
 layout: default
+title: ICSS研究賞
 ---
 
 # 情報通信システムセキュリティ研究賞(ICSS研究賞)
