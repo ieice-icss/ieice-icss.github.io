@@ -30,4 +30,7 @@ TBA
 高倉 弘喜(NII), 
 吉岡 克成(横浜国大)
 
+
+#### 所属の略称表記は電子情報通信学会の[関係諸機関略称一覧](https://www.ieice.org/jpn_r/about/kikanryakusho.html)に準拠します
+
 #### [過去の専門委員会](committee-past.html)
