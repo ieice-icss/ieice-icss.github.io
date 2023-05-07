@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ICSS専門委員会
+title: 専門委員会
 ---
 
 # 情報通信システムセキュリティ(ICSS)研究専門委員会
