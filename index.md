@@ -70,10 +70,10 @@ title: トップページ
 | 第66回合同研究会 | 2024/03/XX-XX | 未定(沖縄県予定)	|IPSJ-SPT					|
 
 # リンク集
-- [ICSS研について](https://ieice-icss.github.io/about.html)
-- [ICSS研専門委員会](https://ieice-icss.github.io/committee.html)
-- [ICSS研究賞](https://ieice-icss.github.io/award.html)
-- [メーリングリスト](https://ieice-icss.github.io/ml.html)
+- [ICSS研について](about.html)
+- [ICSS研専門委員会](committee.html)
+- [ICSS研究賞](award.html)
+- [メーリングリスト](ml.html)
 
 
 
