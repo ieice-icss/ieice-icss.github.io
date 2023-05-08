@@ -99,7 +99,7 @@ title: トップページ
 - [ハードウェアセキュリティ(HWS)研究会](https://www.ieice.org/~hws/top)
 - [インターネットアーキテクチャ(IA)研究会](https://www.ieice.org/cs/ia/jpn/doku.php)
 - [情報セキュリティ(ISEC)研究会](https://www.ieice.org/~isec/)
-- [技術と社会･倫理研究会(SITE)研究会](https://www.ieice.org/~site/)
+- [技術と社会･倫理(SITE)研究会](https://www.ieice.org/~site/)
 - [情報処理学会 コンピュータセキュリティ(CSEC)研究会](https://www.iwsec.org/csec/)
 - [情報処理学会 セキュリティ心理学とトラスト(SPT)研究会](https://www.iwsec.org/spt/)
 
