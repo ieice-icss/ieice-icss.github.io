@@ -46,7 +46,7 @@ title: トップページ
 |テーマ|インターネットセキュリティ、一般|
 |共催|IA|
 
-- [発表申込(終了)]()
+- 発表申込(終了)
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
 - [参加申込フォーム(TBA)]()
 
