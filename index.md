@@ -23,6 +23,7 @@ title: トップページ
 - [発表申込(受付中)](https://ken.ieice.org/ken/form/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
 - [開催プログラム(TBA)]()
 - [参加申込フォーム(TBA)]()
+- [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
 - [ ] 発表申込締切:2023/05/12
