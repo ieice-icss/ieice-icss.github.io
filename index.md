@@ -88,10 +88,13 @@ title: トップページ
 
 
 # リンク集
+## ICSS研究会について
 - [ICSS研について](about.html)
 - [ICSS研専門委員会](committee.html)
 - [ICSS研究賞](award.html)
 - [メーリングリスト](ml.html)
+
+## 研究会に参加(発表・聴講)するには
 - [研究会を聴講したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=choko)
 - [研究会で発表したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=happyo)
 - [研究会に関するFAQ](https://www.ieice.org/jpn_r/faq/kenkyuukai.html)
