@@ -49,13 +49,13 @@ title: トップページ
 - 発表申込(終了)
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
 - [参加申込フォーム(TBA)]()
+- [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
 - [x] 発表申込締切:2023/04/19
 - [ ] 原稿提出締切:2023/05/30
 - [ ] 参加申込締切:2023/06/19
 - [ ] 研究会開催日:2023/06/20-21
-
 
 ### 注意事項
 - 事前に参加費をお支払いのうえで、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac)をご覧ください。
@@ -64,18 +64,6 @@ title: トップページ
 # 今後の研究会日程
 
 ## [電子情報通信学会 ICSS研究会 開催スケジュール](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
-
-
-### 第63回合同研究会
-- 日程:2023/06/20-21
-- 会場:佐賀大学/オンライン
-- 共催:IA
-
-### 第64回合同研究会(Security Summer Summit)
-- 日程:2023/07/24-25
-- 会場:北海道自治労会館
-- 共催:ISEC,HWS,EMM,SITE,BioX,
-- 連催:IPSJ-CSEC,IPSJ-SPT
 
 ### 第65回研究会
 - 日程:2023/11/XX-XX
