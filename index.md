@@ -86,6 +86,7 @@ title: トップページ
 - [研究会を聴講したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=choko)
 - [研究会で発表したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=happyo)
 - [研究会に関するFAQ](https://www.ieice.org/jpn_r/faq/kenkyuukai.html)
+- ICSS研究会の原稿枚数は **6枚以上推奨、8枚以内** です
 
 ## 共催・連催研究会
 - [バイオメトリクス(BioX)研究会](https://www.ieice.org/~biox/)
