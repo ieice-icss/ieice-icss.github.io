@@ -14,19 +14,19 @@ title: ICSS研究賞
 
 ### 2022年度
 
-[(ICSS2022-76)Can't Stop The Scan: インターネットスキャンのオプトアウト実態調査](https://ken.ieice.org/ken/paper/202303149Cs7/)
+[(ICSS2022-76)Can't Stop The Scan: インターネットスキャンのオプトアウト実態調査](https://ken.ieice.org/ken/paper/202303149Cs7/) 
 ○笠間貴弘, 遠藤由紀子, 久保正樹, 井上大介(NICT)
 
-[(ICSS2022-49)不可視光レーザ照射を利用した動的偽装QRコード](https://ken.ieice.org/ken/paper/20230313TCsE/)
+[(ICSS2022-49)不可視光レーザ照射を利用した動的偽装QRコード](https://ken.ieice.org/ken/paper/20230313TCsE/) 
 ○鎌田悠希, 川口宗也, 大東俊博, 高山佳久(東海大)
 
-[(ICSS2022-6)実機を使用した不正ログイン後のIoT機器悪用可能性の調査](https://ken.ieice.org/ken/paper/20220623wCkJ/)
+[(ICSS2022-6)実機を使用した不正ログイン後のIoT機器悪用可能性の調査](https://ken.ieice.org/ken/paper/20220623wCkJ/) 
 ○村上洸介(NICT/KDDI総合研究所), 笠間貴弘, 井上大介(NICT)
 
-[(ICSS2022-46)ランサムウェアに対する実行遅延タスクスケジューラの提案と評価](https://ken.ieice.org/ken/paper/20221108ZCnE/)
+[(ICSS2022-46)ランサムウェアに対する実行遅延タスクスケジューラの提案と評価](https://ken.ieice.org/ken/paper/20221108ZCnE/) 
 ○榎本秀平(東京農工大), 葛野弘樹(神戸大), 山田浩史(東京農工大), 白石善明, 森井昌克(神戸大)
 
-[(ICSS2022-78)IoT機器に対するマルウェア持続感染性の診断手法の提案](https://ken.ieice.org/ken/paper/20230314GCqw/)
+[(ICSS2022-78)IoT機器に対するマルウェア持続感染性の診断手法の提案](https://ken.ieice.org/ken/paper/20230314GCqw/) 
 ○添田隼喜, 井上貴弘, インミン パパ, 田辺瑠偉, 吉岡克成, 松本勉(横浜国大)
 
 ### 2021年度
