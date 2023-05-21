@@ -2,7 +2,7 @@ title: 電子情報通信学会 情報通信システムセキュリティ研究
 description: 
 email: 
 baseurl: "" 
-url: "https://icss.ieice.org/" 
+url: "https://icss.ieice.org" 
 
 exclude:
   - node_modules
