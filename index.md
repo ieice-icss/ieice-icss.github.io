@@ -90,7 +90,7 @@ title: トップページ
   - ICSS研究会の原稿枚数は **6枚以上推奨、8枚以下** です
 
 ## 共催・連催研究会
-- [バイオメトリクス(BioX)研究会](https://www.ieice.org/~biox/)
+- [バイオメトリクス(BioX)研究会](https://biox.jp/)
 - [マルチメディア情報ハイディング・エンリッチメント(EMM)研究会](https://www.ieice.org/iss/emm/)
 - [ハードウェアセキュリティ(HWS)研究会](https://www.ieice.org/~hws/top)
 - [インターネットアーキテクチャ(IA)研究会](https://www.ieice.org/cs/ia/jpn/doku.php)
