@@ -49,7 +49,8 @@ title: トップページ
 
 - 発表申込(終了)
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
-- [参加申込フォーム(TBA)]()
+- [オンライン参加申込](https://ken.ieice.org/ken/form/partform.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&lang=)
+- [現地参加申込(TBA)]()
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
@@ -60,7 +61,7 @@ title: トップページ
 
 ### 注意事項
 - 事前に参加費をお支払いのうえで、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac)をご覧ください。
-- 研究会に参加される方は、参加申込フォームにてお申し込みください（現地/オンライン参加問わず、参加申込が必要です）
+- 研究会に参加される方は、上記のリンクから参加申込フォームにてお申し込みください。現地参加、オンライン参加のいずれも参加申込が必要です。
 
 # 今後の研究会日程
 
