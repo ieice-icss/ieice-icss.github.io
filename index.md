@@ -9,8 +9,9 @@ title: トップページ
 - [2022年度のICSS研究賞受賞論文を掲載しました(2023/05/16)](award.html)
 - ICSS研究会Webページをリニューアルしました(2023/05/08)
 
+
 <details>
-<summary>過去のお知らせ</summary>
+<summary markdown="span">過去のお知らせ</summary>
 <div>
 
 - [第64回合同研究会を開催します](#%E7%AC%AC64%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
