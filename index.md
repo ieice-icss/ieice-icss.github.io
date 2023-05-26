@@ -5,7 +5,7 @@ title: トップページ
 
 # お知らせ
 - [第63回合同研究会(6月開催)のオンライン参加フォームを掲載しました(2023/05/25)](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
-- [第64回合同研究会の開催プログラムを掲載しました(2023/05/20)](#%E7%AC%AC64%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- [第64回合同研究会(7月開催)の開催プログラムを掲載しました(2023/05/20)](#%E7%AC%AC64%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [2022年度のICSS研究賞受賞論文を掲載しました(2023/05/16)](award.html)
 - ICSS研究会Webページをリニューアルしました(2023/05/08)
 
@@ -17,6 +17,7 @@ title: トップページ
 - [第63回合同研究会を開催します](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 </div>
 </details>
+
 
 ## 第64回合同研究会(Security Summer Summit)を開催します
 
@@ -41,9 +42,8 @@ title: トップページ
 
 
 ### 注意事項
-- 事前に参加費をお支払いのうえで、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966)をご覧ください。
 - **今回は現地開催のみで、オンライン配信はありません。** 一部(招待講演)は、オンライン配信を検討中です。
-
+- 事前に参加費をお支払いのうえで、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966)をご覧ください。
 
 
 ## 第63回合同研究会を開催します
@@ -68,13 +68,13 @@ title: トップページ
 - [ ] 研究会開催日:2023/06/20-21
 
 ### 注意事項
-- 事前に参加費をお支払いのうえで、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac)をご覧ください。
-- 研究会に参加される方は、上記の参加申込のリンクからお申し込みください。
 - **現地参加、オンライン参加、どちらも参加申込が必要です。**
+- 研究会に参加される方は、上記の参加申込のリンクからお申し込みください。
+- 事前に参加費をお支払いのうえで、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac)をご覧ください。
 
 # 今後の研究会日程
 
-## [研究会発表申込システム(今後のICSS研究会)](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
+## [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
 
 ### 第65回研究会
 - 日程:2023/11/XX-XX
