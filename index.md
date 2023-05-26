@@ -74,7 +74,7 @@ title: トップページ
 
 # 今後の研究会日程
 
-## [ICSS研究会 開催スケジュール](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
+## [研究会発表申込システム(今後のICSS研究会)](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
 
 ### 第65回研究会
 - 日程:2023/11/XX-XX
