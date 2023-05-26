@@ -96,6 +96,8 @@ title: トップページ
 ## 研究会に参加(発表・聴講)するには
 - [研究会を聴講したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=choko)
 - [研究会で発表したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=happyo)
+  - ICSS研究会は**情報・システムソサイエティ**です。
+  - 学生、かつ予稿集が不要な場合、参加費(聴講・発表)は無料です。
 - [研究会に関するFAQ](https://www.ieice.org/jpn_r/faq/kenkyuukai.html)
   - ICSS研究会の原稿枚数は **6枚以上推奨、8枚以下** です
 
