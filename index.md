@@ -3,7 +3,7 @@ layout: default
 title: トップページ
 ---
 
-# お知らせ
+## お知らせ
 - [第63回合同研究会(6月開催)のオンライン参加フォームを掲載しました(2023/05/25)](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [第64回合同研究会(7月開催)の開催プログラムを掲載しました(2023/05/20)](#%E7%AC%AC64%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [2022年度のICSS研究賞受賞論文を掲載しました(2023/05/16)](award.html)
@@ -72,9 +72,9 @@ title: トップページ
 - 研究会に参加される方は、上記の参加申込のリンクからお申し込みください。
 - 事前に参加費をお支払いのうえで、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac)をご覧ください。
 
-# 今後の研究会日程
+## 今後の研究会日程
 
-## [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
+### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
 
 ### 第65回研究会
 - 日程:2023/11/XX-XX
@@ -84,14 +84,6 @@ title: トップページ
 - 日程:2024/03/XX-XX
 - 会場:未定(沖縄県予定)
 - 連催:IPSJ-SPT
-
-
-# リンク集
-## ICSS研究会について
-- [ICSS研について](about.html)
-- [ICSS研専門委員会](committee.html)
-- [ICSS研究賞](award.html)
-- [メーリングリスト](ml.html)
 
 ## 研究会に参加(発表・聴講)するには
 - [研究会を聴講したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=choko)
@@ -103,7 +95,14 @@ title: トップページ
   - 学生かつ予稿集が不要な場合、聴講参加費は無料です。
   - それ以外の場合、聴講参加費は[こちら](https://www.ieice.org/jpn_r/event/kenkyukai/entry_fee.html?id=iss)を参照してください。
 
-## 共催・連催研究会(アルファベット順)
+## リンク集
+### ICSS研究会について
+- [ICSS研について](about.html)
+- [ICSS研専門委員会](committee.html)
+- [ICSS研究賞](award.html)
+- [メーリングリスト](ml.html)
+
+### 共催・連催研究会(アルファベット順)
 - [バイオメトリクス(BioX)研究会](https://biox.jp/)
 - [マルチメディア情報ハイディング・エンリッチメント(EMM)研究会](https://www.ieice.org/iss/emm/)
 - [ハードウェアセキュリティ(HWS)研究会](https://www.ieice.org/~hws/top)
@@ -114,7 +113,7 @@ title: トップページ
 - [情報処理学会 セキュリティ心理学とトラスト(SPT)研究会](https://www.iwsec.org/spt/)
 
 
-# 問い合わせ
+## 問い合わせ
 ICSS研究会に関するお問い合わせは、以下の連絡先（幹事団）までお願いいたします。
 
 ![幹事団](d.PNG)
