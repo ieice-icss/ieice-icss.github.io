@@ -7,6 +7,9 @@ url: "https://icss.ieice.org"
 exclude:
   - node_modules
   - script
+  
+plugins:
+  - jekyll-sitemap
 
 sass:
   style: :compressed
