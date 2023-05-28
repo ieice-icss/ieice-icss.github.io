@@ -13,8 +13,8 @@ title: トップページ
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
-- [第64回合同研究会を開催します](#%E7%AC%AC64%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
-- [第63回合同研究会を開催します](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- [第64回合同研究会(7月)を開催します](#%E7%AC%AC64%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- [第63回合同研究会(6月)を開催します](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 </div>
 </details>
 
@@ -43,7 +43,7 @@ title: トップページ
 
 ### 注意事項
 - **今回は現地開催のみで、オンライン配信はありません。** 一部(招待講演)は、オンライン配信を検討中です。
-- 事前に参加費をお支払いのうえで、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966)をご覧ください。
+- 事前に参加費をお支払いのうえ、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966)をご覧ください。
 
 
 ## 第63回合同研究会を開催します
@@ -68,9 +68,9 @@ title: トップページ
 - [ ] 研究会開催日:2023/06/20-21
 
 ### 注意事項
-- **現地参加、オンライン参加、どちらも参加申込が必要です。**
+- **現地参加・オンライン参加、どちらも参加申込が必要です。**
 - 研究会に参加される方は、上記の参加申込のリンクからお申し込みください。
-- 事前に参加費をお支払いのうえで、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac)をご覧ください。
+- 事前に参加費をお支払いのうえ、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac)をご覧ください。
 
 ## 今後の研究会日程
 
@@ -88,12 +88,12 @@ title: トップページ
 ## 研究会に参加(発表・聴講)するには
 - [研究会を聴講したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=choko)
 - [研究会で発表したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=happyo)
-  - ICSS研究会の原稿枚数は **6枚以上推奨、8枚以下** です
+  - ICSS研究会の原稿枚数は、**6枚以上推奨、8枚以下**です。
 - [研究会に関するFAQ](https://www.ieice.org/jpn_r/faq/kenkyuukai.html)
 - 参加費について
   - ICSS研究会(情報・システムソサイエティ)では、発表参加費は不要です。(別途、聴講参加費が必要)
   - 学生かつ予稿集が不要な場合、聴講参加費は無料です。
-  - それ以外の場合、聴講参加費は[こちら](https://www.ieice.org/jpn_r/event/kenkyukai/entry_fee.html?id=iss)を参照してください。
+  - それ以外の場合の聴講参加費は、[こちら](https://www.ieice.org/jpn_r/event/kenkyukai/entry_fee.html?id=iss)を参照してください。
 
 ## リンク集
 ### ICSS研究会について
