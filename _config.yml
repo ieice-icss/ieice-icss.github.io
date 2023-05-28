@@ -1,8 +1,8 @@
 title: 電子情報通信学会 情報通信システムセキュリティ研究会(ICSS研)
 description: 電子情報通信学会 情報通信システムセキュリティ研究会 ICSS研究会のWebページです。
-email: 
 baseurl: "" 
 url: "https://icss.ieice.org" 
+locale: ja_JP
 
 exclude:
   - node_modules
