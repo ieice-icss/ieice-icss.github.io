@@ -63,7 +63,7 @@ title: トップページ
 
 ### スケジュール
 - [x] 発表申込締切:2023/04/19
-- [ ] 原稿提出締切:2023/05/30
+- [x] 原稿提出締切:2023/05/30
 - [ ] 参加申込締切:2023/06/19
 - [ ] 研究会開催日:2023/06/20-21
 
@@ -88,11 +88,11 @@ title: トップページ
 ## 研究会に参加(発表・聴講)するには
 - [研究会を聴講したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=choko)
 - [研究会で発表したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=happyo)
-  - ICSS研究会の原稿枚数は、**6枚以上推奨、8枚以下**です。
+  - ICSS研究会の原稿枚数は**6枚以上推奨、8枚以下**です。
 - [研究会に関するFAQ](https://www.ieice.org/jpn_r/faq/kenkyuukai.html)
 - 参加費について
   - ICSS研究会(情報・システムソサイエティ)では、発表参加費は不要です。(別途、聴講参加費が必要)
-  - 学生かつ予稿集が不要な場合、聴講参加費は無料です。
+  - **学生かつ予稿集が不要な場合、聴講参加費は無料です。**
   - それ以外の場合の聴講参加費は、[こちら](https://www.ieice.org/jpn_r/event/kenkyukai/entry_fee.html?id=iss)を参照してください。
 
 ## リンク集
