@@ -4,7 +4,8 @@ title: トップページ
 ---
 
 ## お知らせ
-- [第63回合同研究会(6月開催)のオンライン参加フォームを掲載しました(2023/05/25)](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- [第63回合同研究会(6月開催)の現地参加申込フォームを掲載しました(2023/05/25)](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- [第63回合同研究会(6月開催)のオンライン参加申込フォームを掲載しました(2023/05/25)](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [第64回合同研究会(7月開催)の開催プログラムを掲載しました(2023/05/20)](#%E7%AC%AC64%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [2022年度のICSS研究賞受賞論文を掲載しました(2023/05/16)](award.html)
 - ICSS研究会Webページをリニューアルしました(2023/05/08)
@@ -58,7 +59,7 @@ title: トップページ
 - 発表申込(終了)
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
 - [オンライン参加申込フォーム](https://ken.ieice.org/ken/form/partform.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&lang=)
-- 現地参加申込フォーム(TBA)
+- [現地参加申込フォーム](https://docs.google.com/forms/d/e/1FAIpQLSf2DgAXjlaMuCdfzknqtdbdQVjZM5ijotaamBn2kiinBaKguw/viewform?usp=sf_link)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
