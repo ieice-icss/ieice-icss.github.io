@@ -4,8 +4,6 @@ title: トップページ
 ---
 
 ## お知らせ
-- [第63回合同研究会(6月開催)の現地参加申込フォームを掲載しました(2023/06/05)](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
-- [第63回合同研究会(6月開催)のオンライン参加申込フォームを掲載しました(2023/05/25)](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [第64回合同研究会(7月開催)の開催プログラムを掲載しました(2023/05/20)](#%E7%AC%AC64%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [2022年度のICSS研究賞受賞論文を掲載しました(2023/05/16)](award.html)
 - ICSS研究会Webページをリニューアルしました(2023/05/08)
@@ -14,8 +12,7 @@ title: トップページ
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
-- [第64回合同研究会(7月)を開催します](#%E7%AC%AC64%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
-- [第63回合同研究会(6月)を開催します](#%E7%AC%AC63%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- [第63回合同研究会(6月)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
 </div>
 </details>
 
@@ -37,8 +34,8 @@ title: トップページ
 
 ### スケジュール
 - [x] 発表申込締切:2023/05/12
-- [ ] 原稿提出締切:2023/06/19
-- [ ] 参加申込締切:TBA
+- [x] 原稿提出締切:2023/06/19
+- [ ] オンライン招待講演参加申込締切:TBA
 - [ ] 研究会開催日:2023/07/24-25
 
 
@@ -46,40 +43,13 @@ title: トップページ
 - **今回は現地開催のみで、オンライン配信はありません。** 一部(招待講演)は、オンライン配信を検討中です。
 - 事前に参加費をお支払いのうえ、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966)をご覧ください。
 
-
-## 第63回合同研究会を開催します
-
-### 開催概要
-
-|日程|2023/06/20(火)-21(水)|
-|会場|佐賀大学 本庄キャンパス/オンライン|
-|テーマ|インターネットセキュリティ、一般|
-|共催|IA|
-
-- 発表申込(終了)
-- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
-- [オンライン参加申込フォーム](https://ken.ieice.org/ken/form/partform.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&lang=)
-- [現地参加申込フォーム](https://docs.google.com/forms/d/e/1FAIpQLSf2DgAXjlaMuCdfzknqtdbdQVjZM5ijotaamBn2kiinBaKguw/viewform?usp=sf_link)
-- [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
-
-### スケジュール
-- [x] 発表申込締切:2023/04/19
-- [x] 原稿提出締切:2023/05/30
-- [ ] 参加申込締切:2023/06/19
-- [ ] 研究会開催日:2023/06/20-21
-
-### 注意事項
-- **現地参加・オンライン参加、どちらも参加申込が必要です。**
-- 研究会に参加される方は、上記の参加申込のリンクからお申し込みください。
-- 事前に参加費をお支払いのうえ、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac)をご覧ください。
-
 ## 今後の研究会日程
 
 ### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
 
 ### 第65回研究会
-- 日程:2023/11/XX-XX
-- 会場:未定
+- 日程:2023/11/16-17
+- 会場:石川県金沢市(予定)
 
 ### 第66回合同研究会
 - 日程:2024/03/XX-XX
