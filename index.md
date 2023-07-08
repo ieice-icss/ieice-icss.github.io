@@ -30,7 +30,6 @@ title: トップページ
 
 - 発表申込(終了)
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
-- オンライン配信(招待講演のみ)聴講申込フォーム(TBA)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
@@ -41,6 +40,7 @@ title: トップページ
 
 ### 注意事項
 - **今回は現地開催のみで、オンライン配信はありません。** 一部(招待講演)は、オンライン配信を行います。
+- 7月研究会の参加費または年間参加費をお支払いの方に、招待講演のオンライン配信URLをお送りいたします。
 - 事前に参加費をお支払いのうえ、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966)をご覧ください。
 
 ## 第65回研究会を開催します
