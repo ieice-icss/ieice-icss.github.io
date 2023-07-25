@@ -5,7 +5,6 @@ title: トップページ
 
 ## お知らせ
 - [第65回研究会(11月開催)の開催日程を掲載しました。](#%E7%AC%AC65%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
-- [第64回合同研究会(Security Summer Summit:7月開催)の開催プログラムを掲載しました(2023/05/20)](#%E7%AC%AC64%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [2022年度のICSS研究賞受賞論文を掲載しました(2023/05/16)](award.html)
 - ICSS研究会Webページをリニューアルしました(2023/05/08)
 
@@ -13,34 +12,11 @@ title: トップページ
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
-- [第63回ICSS/IA合同研究会(6月)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
+  - [第64回合同研究会(7月:Security Summer Summit)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
+  - [第63回ICSS/IA合同研究会(6月)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
 </div>
 </details>
 
-
-## 第64回合同研究会(Security Summer Summit)を開催します
-
-### 開催概要
-
-|日程|2023/07/24(月)-25(火)|
-|会場|北海道自治労会館(現地開催のみ)|
-|テーマ|セキュリティ、一般|
-|共催|BioX, EMM, HWS, ISEC, SITE|
-|連催|IPSJ-CSEC, IPSJ-SPT|
-
-- 発表申込(終了)
-- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
-- [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
-
-### スケジュール
-- [x] 発表申込締切:2023/05/12
-- [x] 原稿提出締切:2023/06/19
-- [ ] 研究会開催日:2023/07/24-25
-
-### 注意事項
-- **今回は現地開催のみで、オンライン配信はありません。** 一部(招待講演)は、オンライン配信を行います。
-- 7月研究会の参加費または年間参加費をお支払いの方に、招待講演のオンライン配信URLをお送りいたします。
-- 事前に参加費をお支払いのうえ、ご参加ください。詳細は[参加費について](https://ken.ieice.org/ken/user/index.php?cmd=participation&tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966)をご覧ください。
 
 ## 第65回研究会を開催します
 
