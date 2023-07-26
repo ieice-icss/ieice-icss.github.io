@@ -18,7 +18,7 @@ title: トップページ
 </details>
 
 
-## 第65回研究会を開催します
+## 第65回ICSS研究会を開催します
 
 ### 開催概要
 
@@ -38,7 +38,7 @@ title: トップページ
 - [ ] 研究会開催日:2023/11/16-17
 
 ### 注意事項
-- **オンライン配信は、聴講参加のみを予定しています。**
+- **オンライン参加は、聴講のみを予定しています。**
 - 発表される方は、現地会場でのご発表をお願いします。（オンラインからの発表参加は予定しておりません）
 - 事前に参加費をお支払いのうえ、ご参加ください。
 
@@ -56,9 +56,9 @@ title: トップページ
 - [研究会を聴講したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=choko)
 - [研究会で発表したい](https://www.ieice.org/jpn_r/event/kenkyukai/index.html?id=happyo)
   - ICSS研究会の原稿枚数は**6枚以上推奨、8枚以下**です。
-- [研究会に関するFAQ](https://www.ieice.org/jpn_r/faq/kenkyuukai.html)
-- 参加費について
   - ICSS研究会(情報・システムソサイエティ)では、発表参加費は不要です。(別途、聴講参加費が必要)
+- [研究会に関するFAQ](https://www.ieice.org/jpn_r/faq/kenkyuukai.html)
+- 聴講参加費について
   - **学生かつ予稿集が不要な場合、聴講参加費は無料です。**
   - それ以外の場合の聴講参加費は、[こちら](https://www.ieice.org/jpn_r/event/kenkyukai/entry_fee.html?id=iss)を参照してください。
 
