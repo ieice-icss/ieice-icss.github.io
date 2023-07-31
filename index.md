@@ -4,8 +4,8 @@ title: トップページ
 ---
 
 ## お知らせ
-- [第65回研究会(11月開催)の開催日程を掲載しました。](#%E7%AC%AC65%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
-- 暗号と情報セキュリティ2024(SCIS2024)は2024/01/22～2024/01/26に長崎出島メッセで開催予定です(ISEC研主催、ICSS研ほか協催)
+- [第65回研究会(11月開催:石川県金沢市)の開催日程を掲載しました。](#%E7%AC%AC65%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- 暗号と情報セキュリティシンポジウム2024(SCIS2024)は、2024/01/22～2024/01/26に長崎出島メッセで開催予定です(ISEC研主催, ICSS研ほか協催)
 - [2022年度のICSS研究賞受賞論文を掲載しました(2023/05/16)](award.html)
 - ICSS研究会Webページをリニューアルしました(2023/05/08)
 
@@ -13,8 +13,8 @@ title: トップページ
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
-  - [第64回合同研究会(7月:Security Summer Summit)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
-  - [第63回ICSS/IA合同研究会(6月)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
+  - [第64回合同研究会(7月:Security Summer Summit 北海道札幌市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
+  - [第63回ICSS/IA合同研究会(6月:佐賀県佐賀市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
 </div>
 </details>
 
@@ -24,7 +24,7 @@ title: トップページ
 ### 開催概要
 
 |日程|2023/11/16(木)-17(金)|
-|会場|[ITビジネスプラザ武蔵](https://www.bp-musashi.jp/access/) 5F研修室1(石川県金沢市)／オンライン(聴講のみ)|
+|会場|[ITビジネスプラザ武蔵](https://www.bp-musashi.jp/access/)(石川県金沢市) 5F研修室1, オンライン(聴講のみ)|
 |テーマ|情報通信システムセキュリティ、一般|
 
 - 発表申込フォーム(TBA)
