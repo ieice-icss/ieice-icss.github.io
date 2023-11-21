@@ -10,7 +10,7 @@ title: トップページ
 <summary>過去のお知らせ</summary>
 <div markdown="1">
   
-　- [第65回研究会(2023年11月:石川県金沢市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=91320db077704f64057184451e848bb989a473560c14bea1f79efc34a67ae0f0&tgid=IEICE-ICSS)
+  - [第65回研究会(2023年11月:石川県金沢市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=91320db077704f64057184451e848bb989a473560c14bea1f79efc34a67ae0f0&tgid=IEICE-ICSS)
   - [第64回合同研究会(2023年7月:Security Summer Summit 北海道札幌市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
   - [第63回ICSS/IA合同研究会(2023年6月:佐賀県佐賀市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
   - [2022年度のICSS研究賞受賞論文を掲載しました(2023/05/16)](award.html)
