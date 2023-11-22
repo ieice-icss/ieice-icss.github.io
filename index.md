@@ -24,7 +24,7 @@ title: トップページ
 ### 開催概要
 
 |日程|2024/03/21(木)-22(金)|
-|会場|沖縄県（予定）|
+|会場|[沖縄科学技術大学院大学(OIST) OISTカンファレンスセンター ミーティング・ルーム棟](https://groups.oist.jp/ja/conference-venues/oist-conference-center)|
 |テーマ|セキュリティ、一般|
 
 - 発表申込フォーム(TBD)
