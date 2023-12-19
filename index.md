@@ -28,14 +28,14 @@ title: トップページ
 |会場|[沖縄科学技術大学院大学(OIST) OISTカンファレンスセンター ミーティング・ルーム棟](https://groups.oist.jp/ja/conference-venues/oist-conference-center)|
 |テーマ|セキュリティ、一般|
 
-- 発表申込フォーム(TBD)
+- [発表申込フォーム(1/12締切)](https://ken.ieice.org/ken/form/index.php?tgs_regid=a625c6a296493252a4f2a9b3f76c0b924d9b37fc6efbfdc33610035332047971&tgid=IEICE-ICSS)
 - 開催プログラム(TBD)
 - 参加申込フォーム(TBD)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
-- [ ] 発表申込締切:2024/01/xx
-- [ ] 原稿提出締切:2024/02/xx
+- [ ] 発表申込締切:2024/01/12
+- [ ] 原稿提出締切:2024/02/19ごろ
 - [ ] 研究会開催日:2024/03/21-22
 
 ### 注意事項
