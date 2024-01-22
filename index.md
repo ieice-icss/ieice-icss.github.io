@@ -28,7 +28,7 @@ title: トップページ
 |会場|[沖縄科学技術大学院大学(OIST) OISTカンファレンスセンター ミーティング・ルーム棟](https://groups.oist.jp/ja/conference-venues/oist-conference-center)|
 |テーマ|セキュリティ、一般|
 
-- *発表申込フォーム(1/12締切)*
+- ~発表申込フォーム(1/12締切)~
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=a625c6a296493252a4f2a9b3f76c0b924d9b37fc6efbfdc33610035332047971&tgid=IEICE-ICSS)
 - [参加申込フォーム](https://ken.ieice.org/ken/form/partform.php?tgs_regid=a625c6a296493252a4f2a9b3f76c0b924d9b37fc6efbfdc33610035332047971)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
