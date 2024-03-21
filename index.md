@@ -50,12 +50,12 @@ title: トップページ
 
 ### 第67回ICSS/IA合同研究会
 - 日程:2024/06/17-18
-- 会場:岡山大学(予定)
+- 会場:岡山大学津山キャンパス(岡山県岡山市)
 - 共催:[インターネットアーキテクチャ(IA)研究会](https://www.ieice.org/cs/ia/jpn/doku.php)
 
 ### 第68回合同研究会(SSS:Security Summer Summit)
-- 日程:2024/07/XX-XX
-- 会場:未定(北海道札幌市予定)
+- 日程:2024/07/22-23
+- 会場:札幌コンベンションセンター(北海道札幌市)
 - 共催:BioX/EMM/HWS/ISEC/SITE
 - 連催:IPSJ-CSEC/IPSJ-SPT
 
