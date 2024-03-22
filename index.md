@@ -5,12 +5,13 @@ title: トップページ
 
 ## お知らせ
 - [第66回ICSS/SPT合同研究会を開催します](#%E7%AC%AC66%E5%9B%9Eicssspt%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
-
+- [第67回ICSS/IA合同研究会を開催します](#%E7%AC%AC67%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
-  - [暗号と情報セキュリティシンポジウム2024(SCIS2024)](https://www.iwsec.org/scis/2024/)は、2024/01/23～26に長崎出島メッセ(長崎県長崎市)で開催予定です(ICSS研協催)
+  - [第66回ICAA/SPT合同研究会(2024年3月:沖縄県恩納村)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=a625c6a296493252a4f2a9b3f76c0b924d9b37fc6efbfdc33610035332047971&tgid=IEICE-ICSS)
+  - [暗号と情報セキュリティシンポジウム2024(SCIS2024)](https://www.iwsec.org/scis/2024/)は、2024/01/23～26に長崎出島メッセ(長崎県長崎市)で開催しました(ICSS研協催)
   - [第65回研究会(2023年11月:石川県金沢市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=91320db077704f64057184451e848bb989a473560c14bea1f79efc34a67ae0f0&tgid=IEICE-ICSS)
   - [第64回合同研究会(2023年7月:Security Summer Summit 北海道札幌市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
   - [第63回ICSS/IA合同研究会(2023年6月:佐賀県佐賀市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
@@ -35,7 +36,7 @@ title: トップページ
 
 ### スケジュール
 - [x] 発表申込締切:2024/01/12
-- [ ] 原稿提出締切:2024/02/19ごろ
+- [x] 原稿提出締切:2024/02/19ごろ
 - [ ] 研究会開催日:2024/03/21-22
 
 ### 注意事項
