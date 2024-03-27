@@ -93,7 +93,7 @@ title: トップページ
 - [情報セキュリティ(ISEC)研究会](https://www.ieice.org/~isec/)
 - [技術と社会･倫理(SITE)研究会](https://www.ieice.org/~site/)
 - [情報処理学会 コンピュータセキュリティ(CSEC)研究会](https://www.iwsec.org/csec/)
-- [情報処理学会 セキュリティ心理学とトラスト(SPT)研究会](https://www.iwsec.org/spt/)
+- [情報処理学会 セキュリティ心理学とトラスト(SPT)研究会](https://info.spt.ipsj.or.jp/)
 
 
 ## 問い合わせ
