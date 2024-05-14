@@ -28,7 +28,6 @@ title: トップページ
 |会場|[岡山大学 創立五十周年記念館](https://www.okayama-u.ac.jp/tp/profile/50kinenkan02.html)|
 |テーマ|インターネットセキュリティ、一般|
 
-- ~~発表申込フォーム(4/17(水)締切)~~
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=0efcbb324f8e24f57bdb4f8f7f5f04e5c0b7594aa0032a8855592b2c389451f0)
 - 参加申込フォーム
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
@@ -51,13 +50,12 @@ title: トップページ
 |会場|[札幌コンベンションセンター](https://www.sora-scc.jp/access/)|
 |テーマ|セキュリティ、一般|
 
-- [発表申込フォーム(5/13(月)締切)](https://ken.ieice.org/ken/form/index.php?tgs_regid=a235a62f0d6c0e842fbf7480f5b60c882e57a9f722c881fb245e8ec553a2b493&tgid=IEICE-ICSS)
 - 開催プログラム
 - 参加申込フォーム
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
-- [ ] 発表申込締切:2024/05/13
+- [x] 発表申込締切:2024/05/13
 - [ ] 原稿提出締切:2024/06/19
 - [ ] 研究会開催日:2024/07/22-23
 
