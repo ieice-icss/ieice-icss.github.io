@@ -29,7 +29,7 @@ title: トップページ
 |テーマ|インターネットセキュリティ、一般|
 
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=0efcbb324f8e24f57bdb4f8f7f5f04e5c0b7594aa0032a8855592b2c389451f0)
-- 参加申込フォーム
+- [参加申込フォーム(懇親会は6/9〆切)](https://forms.gle/teQ8RPUV8CR5kuM27)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
