@@ -12,6 +12,17 @@ title: ICSS研究賞
 
 ## 受賞論文
 
+### 2023年度
+
+[(ICSS2023-07)集合間類似度算出アルゴリズムを用いたソフトウェアに内在する脆弱なコードのクローン検知手法](https://ken.ieice.org/ken/paper/20230621MCuW/)
+○荒川玲佳・鐘本　楊・塩治榮太朗・秋山満昭（NTT）
+
+[(ICSS2023-62)コンシューマ向けルータの初期Wi-Fi パスワードの推測可能性調査](https://ken.ieice.org/ken/paper/20231117eCYf/)
+○笠間貴弘（NICT）・神野　亮・萩原雄一（ゼロゼロワン）・井上大介（NICT）
+
+[(ICSS2023-71)Zoom MailのEnd-to-End Encryptionに対する安全性評価](https://ken.ieice.org/ken/paper/20240321fcCs/)
+○白木章伍・五十部孝典（兵庫県立大）
+
 ### 2022年度
 
 [(ICSS2022-76)Can't Stop The Scan: インターネットスキャンのオプトアウト実態調査](https://ken.ieice.org/ken/paper/202303149Cs7/)   
