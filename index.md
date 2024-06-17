@@ -4,8 +4,9 @@ title: トップページ
 ---
 
 ## お知らせ
-- [第67回ICSS/IA合同研究会を開催します](#%E7%AC%AC67%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- [2023年度のICSS研究賞受賞論文を掲載しました(2024/06/17)](award.html)
 - [第68回合同研究会(通称:Security Summer Summit)を開催します](#%E7%AC%AC68%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E9%80%9A%E7%A7%B0security-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- [第67回ICSS/IA合同研究会を開催します](#%E7%AC%AC67%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 
 <details>
 <summary>過去のお知らせ</summary>
@@ -50,8 +51,7 @@ title: トップページ
 |会場|[札幌コンベンションセンター](https://www.sora-scc.jp/access/)|
 |テーマ|セキュリティ、一般|
 
-- 開催プログラム
-- 参加申込フォーム
+- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=a235a62f0d6c0e842fbf7480f5b60c882e57a9f722c881fb245e8ec553a2b493&tgid=IEICE-ICSS)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
