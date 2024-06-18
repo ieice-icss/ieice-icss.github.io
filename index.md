@@ -6,11 +6,11 @@ title: トップページ
 ## お知らせ
 - [2023年度のICSS研究賞受賞論文を掲載しました(2024/06/17)](award.html)
 - [第68回合同研究会(通称:Security Summer Summit)を開催します](#%E7%AC%AC68%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E9%80%9A%E7%A7%B0security-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
-- [第67回ICSS/IA合同研究会を開催します](#%E7%AC%AC67%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
+  - [第67回ICSS/IA合同研究会を開催します](#%E7%AC%AC67%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
   - [第66回ICAA/SPT合同研究会(2024年3月:沖縄県恩納村)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=a625c6a296493252a4f2a9b3f76c0b924d9b37fc6efbfdc33610035332047971&tgid=IEICE-ICSS)
   - [暗号と情報セキュリティシンポジウム2024(SCIS2024)](https://www.iwsec.org/scis/2024/)は、2024/01/23～26に長崎出島メッセ(長崎県長崎市)で開催しました(ICSS研協催)
   - [第65回研究会(2023年11月:石川県金沢市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=91320db077704f64057184451e848bb989a473560c14bea1f79efc34a67ae0f0&tgid=IEICE-ICSS)
@@ -20,28 +20,6 @@ title: トップページ
   - ICSS研究会Webページをリニューアルしました(2023/05/08)
 </div>
 </details>
-
-## 第67回ICSS/IA合同研究会を開催します
-
-### 開催概要
-
-|日程|2024/06/17(月)-18(火)|
-|会場|[岡山大学 創立五十周年記念館](https://www.okayama-u.ac.jp/tp/profile/50kinenkan02.html)|
-|テーマ|インターネットセキュリティ、一般|
-
-- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=0efcbb324f8e24f57bdb4f8f7f5f04e5c0b7594aa0032a8855592b2c389451f0)
-- [参加申込フォーム(懇親会は6/9〆切)](https://forms.gle/teQ8RPUV8CR5kuM27)
-- [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
-
-### スケジュール
-- [x] 発表申込締切:2024/04/17
-- [ ] 原稿提出締切:2024/05/24ごろ
-- [ ] 研究会開催日:2024/06/17-18
-
-### 注意事項
-- **オンライン参加は聴講のみ**を予定しています。
-- 発表される方は、現地会場でのご発表をお願いします。（オンラインからの発表参加は受け付けておりません）
-- 事前に参加費をお支払いのうえ、ご参加ください。
 
 ## 第68回合同研究会(通称:Security Summer Summit)を開催します
 
@@ -66,11 +44,6 @@ title: トップページ
 ## 今後の研究会日程
 
 ### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
-
-### 第67回ICSS/IA合同研究会
-- 日程:2024/06/17-18
-- 会場:岡山大学 創立五十周年記念館(岡山県岡山市)
-- 共催:[インターネットアーキテクチャ(IA)研究会](https://www.ieice.org/cs/ia/jpn/doku.php)
 
 ### 第68回合同研究会(SSS:Security Summer Summit)
 - 日程:2024/07/22-23
