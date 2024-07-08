@@ -10,7 +10,7 @@ title: トップページ
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
-  - [第67回ICSS/IA合同研究会を開催します](#%E7%AC%AC67%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+  - [第67回ICSS/IA合同研究会(2024年6月:岡山県岡山市)を開催します](#%E7%AC%AC67%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
   - [第66回ICAA/SPT合同研究会(2024年3月:沖縄県恩納村)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=a625c6a296493252a4f2a9b3f76c0b924d9b37fc6efbfdc33610035332047971&tgid=IEICE-ICSS)
   - [暗号と情報セキュリティシンポジウム2024(SCIS2024)](https://www.iwsec.org/scis/2024/)は、2024/01/23～26に長崎出島メッセ(長崎県長崎市)で開催しました(ICSS研協催)
   - [第65回研究会(2023年11月:石川県金沢市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=91320db077704f64057184451e848bb989a473560c14bea1f79efc34a67ae0f0&tgid=IEICE-ICSS)
@@ -53,7 +53,7 @@ title: トップページ
 
 ### 第69回ICSS研究会
 - 日程:2024/11/21-22
-- 会場:未定
+- 会場:東京近辺（予定）
 
 ### 第70回ICSS/IPSJ-SPT合同研究会
 - 日程:2025/03/06-07
