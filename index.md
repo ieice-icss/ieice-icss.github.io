@@ -4,7 +4,7 @@ title: トップページ
 ---
 
 ## お知らせ
-- [第69回研究会を開催します](#)
+- [第69回研究会を開催します](#%E7%AC%AC69%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [2023年度のICSS研究賞受賞論文を掲載しました(2024/06/17)](award.html)
 
 <details>
@@ -12,50 +12,29 @@ title: トップページ
 <div markdown="1">
   - [第68回合同研究会「通称:Security Summer Summit」(2024年7月:北海道札幌市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=a235a62f0d6c0e842fbf7480f5b60c882e57a9f722c881fb245e8ec553a2b493&tgid=IEICE-ICSS)
   - [第67回ICSS/IA合同研究会(2024年6月:岡山県岡山市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=0efcbb324f8e24f57bdb4f8f7f5f04e5c0b7594aa0032a8855592b2c389451f0&tgid=ICSS)
-  - [第66回ICAA/SPT合同研究会(2024年3月:沖縄県恩納村)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=a625c6a296493252a4f2a9b3f76c0b924d9b37fc6efbfdc33610035332047971&tgid=IEICE-ICSS)
+  - [第66回ICSS/SPT合同研究会(2024年3月:沖縄県恩納村)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=a625c6a296493252a4f2a9b3f76c0b924d9b37fc6efbfdc33610035332047971&tgid=IEICE-ICSS)
   - [暗号と情報セキュリティシンポジウム2024(SCIS2024)](https://www.iwsec.org/scis/2024/)は、2024/01/23～26に長崎出島メッセ(長崎県長崎市)で開催しました(ICSS研協催)
   - [第65回研究会(2023年11月:石川県金沢市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=91320db077704f64057184451e848bb989a473560c14bea1f79efc34a67ae0f0&tgid=IEICE-ICSS)
-  - [第64回合同研究会(2023年7月:Security Summer Summit 北海道札幌市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
+  - [第64回合同研究会「通称:Security Summer Summit」(2023年7月:北海道札幌市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=3d8f0b8b4c5b42e831838e7283fce5e7f479a15b0c31f5a6ce5e9a4a2cd4c966&tgid=IEICE-ICSS)
   - [第63回ICSS/IA合同研究会(2023年6月:佐賀県佐賀市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=58f8ecb0eeaad4eacaba3d2d8b7acd75963042fceac1dcae650e83b1909921ac&tgid=IEICE-ICSS)
   - [2022年度のICSS研究賞受賞論文を掲載しました(2023/05/16)](award.html)
   - ICSS研究会Webページをリニューアルしました(2023/05/08)
 </div>
 </details>
 
-## 第68回合同研究会(通称:Security Summer Summit)を開催します
-
-### 開催概要
-
-|日程|2024/07/22(月)-23(火)|
-|会場|[札幌コンベンションセンター](https://www.sora-scc.jp/access/)|
-|テーマ|セキュリティ、一般|
-
-- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=a235a62f0d6c0e842fbf7480f5b60c882e57a9f722c881fb245e8ec553a2b493&tgid=IEICE-ICSS)
-- [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
-
-### スケジュール
-- [x] 発表申込締切:2024/05/13
-- [x] 原稿提出締切:2024/06/19
-- [ ] 研究会開催日:2024/07/22-23
-
-### 注意事項
-- **オンライン配信はございません。**発表・聴講は現地参加のみとなります。
-- 事前に参加費をお支払いのうえ、ご参加ください。
-
-
 ## 第69回研究会を開催します
 
 ### 開催概要
 
 |日程|2024/11/21(木)-22(金)|
-|会場|東京近辺を予定|
+|会場|東京・神奈川近辺を予定|
 |テーマ|情報通信システムセキュリティ、一般|
 
 - 開催プログラム
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
-- [ ] 発表申込締切:2024/09/XX
+- [ ] 発表申込締切:2024/09/XX(中旬ごろ)
 - [ ] 原稿提出締切:2024/10/30ごろ
 - [ ] 研究会開催日:2024/11/21-22
 
@@ -75,7 +54,7 @@ title: トップページ
 
 ### 第69回ICSS研究会
 - 日程:2024/11/21-22
-- 会場:東京近辺（予定）
+- 会場:東京・神奈川近辺（予定）
 
 ### 第70回ICSS/IPSJ-SPT合同研究会
 - 日程:2025/03/06-07
