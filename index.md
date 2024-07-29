@@ -5,6 +5,7 @@ title: トップページ
 
 ## お知らせ
 - [第69回研究会を開催します](#%E7%AC%AC69%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- ICSS研が協催する国際会議[MobiSec2024](https://www.manuscriptlink.com/society/kiisc/conference/mobisec2024)が12/17-19に札幌で開催されます
 - [2023年度のICSS研究賞受賞論文を掲載しました(2024/06/17)](award.html)
 
 <details>
