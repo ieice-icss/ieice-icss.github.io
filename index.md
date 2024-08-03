@@ -42,6 +42,7 @@ title: トップページ
 ### 注意事項
 - **オンライン配信はございません。**発表・聴講は現地参加のみとなります。
 - 事前に参加費をお支払いのうえ、ご参加ください。
+- (会場アクセス(PDF))[https://www.kawasaki-sym-hall.jp/rental/download/assets/pdf/musicstudios/guidemap_01.pdf]
 
 ## 今後の研究会日程
 
