@@ -31,12 +31,12 @@ title: トップページ
 |会場|[ミューザ川崎シンフォニーホール](https://www.kawasaki-sym-hall.jp/visit/access/) 研修室1+2+3（神奈川県川崎市）|
 |テーマ|情報通信システムセキュリティ、一般|
 
-- [発表申込(9/19〆切)](https://ken.ieice.org/ken/form/index.php?tgs_regid=4fe41e6d4800ad057d36fb5953d3ef6616391a1566180a1533aedac4d798f8a1&tgid=IEICE-ICSS)
-- 開催プログラム
+- [発表申込(9/19〆切)]
+- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=4fe41e6d4800ad057d36fb5953d3ef6616391a1566180a1533aedac4d798f8a1&tgid=IEICE-ICSS)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
-- [ ] 発表申込締切:2024/09/19(木)
+- [x] 発表申込締切:2024/09/19(木)
 - [ ] 原稿提出締切:2024/10/30ごろ
 - [ ] 研究会開催日:2024/11/21(木)-22(金)
 
