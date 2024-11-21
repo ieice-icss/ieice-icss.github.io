@@ -6,13 +6,13 @@ title: トップページ
 ## お知らせ
 - [第70回ICSS/SPT合同研究会を開催します](#%E7%AC%AC70%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [SCIS2025が1月28～31日にリーガロイヤルホテル小倉(福岡県北九州市)で開催されます](https://www.iwsec.org/scis/2025/)
-- [第69回研究会を開催します](#%E7%AC%AC69%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - ICSS研が協催する国際会議[MobiSec2024](https://www.manuscriptlink.com/society/kiisc/conference/mobisec2024)が12/17-19に札幌で開催されます
 - [2023年度のICSS研究賞受賞論文を掲載しました(2024/06/17)](award.html)
 
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
+  - [第69回研究会(2024年11月:神奈川県川崎市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=4fe41e6d4800ad057d36fb5953d3ef6616391a1566180a1533aedac4d798f8a1&tgid=IEICE-ICSS) 
   - [第68回合同研究会「通称:Security Summer Summit」(2024年7月:北海道札幌市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=a235a62f0d6c0e842fbf7480f5b60c882e57a9f722c881fb245e8ec553a2b493&tgid=IEICE-ICSS)
   - [第67回ICSS/IA合同研究会(2024年6月:岡山県岡山市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=0efcbb324f8e24f57bdb4f8f7f5f04e5c0b7594aa0032a8855592b2c389451f0&tgid=ICSS)
   - [第66回ICSS/SPT合同研究会(2024年3月:沖縄県恩納村)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=a625c6a296493252a4f2a9b3f76c0b924d9b37fc6efbfdc33610035332047971&tgid=IEICE-ICSS)
@@ -24,28 +24,6 @@ title: トップページ
   - ICSS研究会Webページをリニューアルしました(2023/05/08)
 </div>
 </details>
-
-## 第69回研究会を開催します
-
-### 開催概要
-
-|日程|2024/11/21(木)|
-|会場|[ミューザ川崎シンフォニーホール](https://www.kawasaki-sym-hall.jp/visit/access/) 研修室1+2+3（神奈川県川崎市）|
-|テーマ|情報通信システムセキュリティ、一般|
-
-- [発表申込(9/19〆切)]
-- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=4fe41e6d4800ad057d36fb5953d3ef6616391a1566180a1533aedac4d798f8a1&tgid=IEICE-ICSS)
-- [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
-
-### スケジュール
-- [x] 発表申込締切:2024/09/19(木)
-- [x] 原稿提出締切:2024/10/30
-- [ ] 研究会開催日:2024/11/21(木)
-
-### 注意事項
-- **オンライン配信はございません。**発表・聴講は現地参加のみとなります。
-- 事前に参加費をお支払いのうえ、ご参加ください。
-- [会場アクセス(PDF)](https://www.kawasaki-sym-hall.jp/rental/download/assets/pdf/musicstudios/guidemap_01.pdf)
 
 ## 第70回合同研究会を開催します
 
@@ -73,10 +51,6 @@ title: トップページ
 ## 今後の研究会日程
 
 ### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
-
-### 第69回ICSS研究会
-- 日程:2024/11/21-22
-- 会場:ミューザ川崎シンフォニーホール 研修室1+2+3（神奈川県川崎市）
 
 ### 第70回ICSS/IPSJ-SPT合同研究会
 - 日程:2025/03/06-07
