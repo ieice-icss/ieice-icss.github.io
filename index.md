@@ -7,12 +7,12 @@ title: トップページ
 - [英文論文誌:情報通信システムセキュリティ小特集の論文投稿を募集します](#%E8%8B%B1%E6%96%87%E8%AB%96%E6%96%87%E8%AA%8C%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B0%8F%E7%89%B9%E9%9B%862026%E5%B9%B46%E6%9C%88%E7%99%BA%E5%88%8A%E3%81%AE%E8%AB%96%E6%96%87%E6%8A%95%E7%A8%BF%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%BE%E3%81%99)
 - [第70回ICSS/SPT合同研究会を開催します](#%E7%AC%AC70%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [SCIS2025が1月28～31日にリーガロイヤルホテル小倉(福岡県北九州市)で開催されます](https://www.iwsec.org/scis/2025/)
-- ICSS研が協催する国際会議[MobiSec2024](https://www.manuscriptlink.com/society/kiisc/conference/mobisec2024)が12/17-19に札幌で開催されます
 - [2023年度のICSS研究賞受賞論文を掲載しました(2024/06/17)](award.html)
 
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
+ - ICSS研が協催する国際会議[MobiSec2024](https://www.manuscriptlink.com/society/kiisc/conference/mobisec2024)が12/17-19に札幌で開催されました
   - [第69回研究会(2024年11月:神奈川県川崎市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=4fe41e6d4800ad057d36fb5953d3ef6616391a1566180a1533aedac4d798f8a1&tgid=IEICE-ICSS) 
   - [第68回合同研究会「通称:Security Summer Summit」(2024年7月:北海道札幌市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=a235a62f0d6c0e842fbf7480f5b60c882e57a9f722c881fb245e8ec553a2b493&tgid=IEICE-ICSS)
   - [第67回ICSS/IA合同研究会(2024年6月:岡山県岡山市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=0efcbb324f8e24f57bdb4f8f7f5f04e5c0b7594aa0032a8855592b2c389451f0&tgid=ICSS)
@@ -63,12 +63,12 @@ title: トップページ
 
 ### 第70回ICSS/IPSJ-SPT合同研究会
 - 日程:2025/03/06-07
-- 会場:沖縄県立美術館・博物館（おきみゅー）（予定）
+- 会場:沖縄県立美術館・博物館（おきみゅー）
 - 連催:IPSJ-SPT
 
 ### 第71回ICSS/IA合同研究会
 - 日程:2025/06/DD
-- 会場:未定
+- 会場:広島県(予定)
 - 共催:IA
 
 ### 第72回合同研究会(通称:Security Summer Summit)
