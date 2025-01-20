@@ -35,12 +35,11 @@ title: トップページ
 |テーマ|セキュリティ、トラスト、一般|
 |連催|[IPSJ-SPT](https://info.spt.ipsj.or.jp/)|
 
-- [発表申込（1/10(金)締切）](https://ken.ieice.org/ken/form/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS)
-- 開催プログラム(TBD)
+- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
-- [ ] 発表申込締切:2025/01/10(金)
+- [x] 発表申込締切:2025/01/10(金)
 - [ ] 原稿提出締切:2025/02/04(火)
 - [ ] 研究会開催日:2025/03/06(木)-07(金)
 
