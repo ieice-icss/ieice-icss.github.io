@@ -61,14 +61,9 @@ title: トップページ
 
 ### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
 
-### 第70回ICSS/IPSJ-SPT合同研究会
-- 日程:2025/03/06-07
-- 会場:沖縄県立美術館・博物館（おきみゅー）
-- 連催:IPSJ-SPT
-
 ### 第71回ICSS/IA合同研究会
-- 日程:2025/06/DD
-- 会場:広島県(予定)
+- 日程:2025/06/23-24
+- 会場:広島大学 東千田キャンパス（広島県広島市）
 - 共催:IA
 
 ### 第72回合同研究会(通称:Security Summer Summit)
