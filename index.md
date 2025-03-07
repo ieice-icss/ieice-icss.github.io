@@ -4,7 +4,7 @@ title: トップページ
 ---
 
 ## お知らせ
-- [第70回ICSS/SPT合同研究会を開催します](#%E7%AC%AC70%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- [第71回ICSS/IA合同研究会を広島大学 東千田キャンパス（広島県広島市）で開催します]()
 - [【CFP】英文論文誌：情報通信システムセキュリティ小特集(2026/06発刊)の投稿論文を募集します](#cfp%E8%8B%B1%E6%96%87%E8%AB%96%E6%96%87%E8%AA%8C%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B0%8F%E7%89%B9%E9%9B%86202606%E7%99%BA%E5%88%8A)
 - ICSS研が協賛する[CANS2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)が2025/11/17～20にグランキューブ大阪(大阪府大阪市)で開催されます
 - [2023年度ICSS研究賞受賞論文を掲載しました(2024/06/17)](award.html)
@@ -12,8 +12,9 @@ title: トップページ
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
+ - [第70回ICSS/SPT合同研究会(2025年3月:沖縄県那覇市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS)
  - ICSS研が後援するイベント[NICTサイバーセキュリティシンポジウム2025](https://www.d-wks.net/nict250221/)が開催されました
- - ICSS研が協催する国際会議[MobiSec2024](https://www.manuscriptlink.com/society/kiisc/conference/mobisec2024)が12/17-19に札幌で開催されました
+ - ICSS研が後援する国際会議[MobiSec2024](https://www.manuscriptlink.com/society/kiisc/conference/mobisec2024)が12/17-19に札幌で開催されました
  - [第69回研究会(2024年11月:神奈川県川崎市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=4fe41e6d4800ad057d36fb5953d3ef6616391a1566180a1533aedac4d798f8a1&tgid=IEICE-ICSS) 
  - [第68回合同研究会「通称:Security Summer Summit」(2024年7月:北海道札幌市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=a235a62f0d6c0e842fbf7480f5b60c882e57a9f722c881fb245e8ec553a2b493&tgid=IEICE-ICSS)
  - [第67回ICSS/IA合同研究会(2024年6月:岡山県岡山市)を開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=0efcbb324f8e24f57bdb4f8f7f5f04e5c0b7594aa0032a8855592b2c389451f0&tgid=ICSS)
@@ -27,25 +28,27 @@ title: トップページ
 </div>
 </details>
 
-## 第70回合同研究会を開催します
+## 第71回ICSS/IA合同研究会を開催します
 
 ### 開催概要
 
-|日程|2025/03/06(木)-07(金)|
-|会場|[沖縄県立美術館・博物館（おきみゅー）](https://okimu.jp/guide/access/) 博物館講座室, 美術館講座室（沖縄県那覇市）|
-|テーマ|セキュリティ、トラスト、一般|
-|連催|[IPSJ-SPT](https://info.spt.ipsj.or.jp/)|
+|日程|2025/06/23(月)-24(火)|
+|会場|[広島大学 東千田キャンパス SENDA LAB](https://www.hiroshima-u.ac.jp/iagcc/ccc/sendalab/sendalab_details)（広島県広島市）|
+|テーマ|インターネットセキュリティ、一般|
+|連催|[IA研究会](https://www.ieice.org/cs/ia/jpn/doku.php)|
 
-- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=7d40e0d1fbc823c402c27c393bae23134140f3b86336e69dc2ce7ec212b50b80&tgid=IEICE-ICSS)
+
+- 発表申込
+- 開催プログラム
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
-- [x] 発表申込締切:2025/01/10(金)
-- [ ] 原稿提出締切:2025/02/04(火)
-- [ ] 研究会開催日:2025/03/06(木)-07(金)
+- [ ] 発表申込締切:2025/04/XX()
+- [ ] 原稿提出締切:2025/06/02(月)
+- [ ] 研究会開催日:2025/06/23(月)-24(火)
 
 ### 注意事項
-- **オンライン配信はございません。**発表・聴講は現地参加のみとなります。
+- 発表は現地参加のみ、聴講はハイブリッド(現地/オンライン)を予定しています。
 - 事前に参加費をお支払いのうえ、ご参加ください。
 
 ## 【CFP】英文論文誌：情報通信システムセキュリティ小特集(2026/06発刊)
