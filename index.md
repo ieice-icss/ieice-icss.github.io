@@ -5,6 +5,7 @@ title: トップページ
 
 ## お知らせ
 - [第71回ICSS/IA合同研究会を広島大学 東千田キャンパス（広島県広島市）で開催します](#%E7%AC%AC71%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+- [第72回合同研究会(Security Summer Summit)を札幌コンベンションセンター（北海道札幌市）で開催します]()
 - [【CFP】英文論文誌：情報通信システムセキュリティ小特集(2026/06発刊)の投稿論文を募集します](#cfp%E8%8B%B1%E6%96%87%E8%AB%96%E6%96%87%E8%AA%8C%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B0%8F%E7%89%B9%E9%9B%86202606%E7%99%BA%E5%88%8A)
 - ICSS研が協賛する[AsiaJCIS2025](https://asiajcis2025.sch.ac.kr/)が2025/08/12～12に韓国ソウルで開催されます
 - ICSS研が協賛する[CANS2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)が2025/11/17～20にグランキューブ大阪(大阪府大阪市)で開催されます
@@ -36,7 +37,7 @@ title: トップページ
 |日程|2025/06/23(月)-24(火)|
 |会場|[広島大学 東千田キャンパス SENDA LAB](https://www.hiroshima-u.ac.jp/iagcc/ccc/sendalab/sendalab_details)（広島県広島市）|
 |テーマ|インターネットセキュリティ、一般|
-|連催|[IA研究会](https://www.ieice.org/cs/ia/jpn/doku.php)|
+|共催|[IA研究会](https://www.ieice.org/cs/ia/jpn/doku.php)|
 
 
 - [発表申込](https://ken.ieice.org/ken/form/index.php?tgs_regid=ecd962f198d45cdc1bd15cc0fce03b36360fa2e399370fdd59d490d58a2cb8f4&tgid=IEICE-ICSS)
@@ -51,6 +52,31 @@ title: トップページ
 ### 注意事項
 - 発表は現地参加のみ、聴講はハイブリッド(現地/オンライン)を予定しています。
 - 事前に参加費をお支払いのうえ、ご参加ください。
+
+## 第72回合同研究会(Security Summer Summit)を開催します
+
+### 開催概要
+
+|日程|2025/07/07(月)-09(水)|
+|会場|[札幌コンベンションセンター](https://www.sora-scc.jp/)（北海道札幌市）|
+|テーマ|セキュリティ、一般|
+|共催|BioX, EMM, HWS, ISEC, SITE|
+|連催|IPSJ-CSEC, IPSJ-SPT|
+
+
+- [発表申込](https://ken.ieice.org/ken/form/index.php?tgs_regid=7a8413451964447d206e23030452f432947c8e4709d99910ec06cb619c1464ba&tgid=IEICE-ICSS)
+- 開催プログラム(TBA)
+- [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
+
+### スケジュール
+- [ ] 発表申込締切:2025/05/12(月)
+- [ ] 原稿提出締切:2025/06/09(月)ごろ
+- [ ] 研究会開催日:2025/07/07(月)-09(水)
+
+### 注意事項
+- 発表は現地参加のみを予定しています。
+- 事前に参加費をお支払いのうえ、ご参加ください。
+
 
 ## 【CFP】英文論文誌：情報通信システムセキュリティ小特集(2026/06発刊)
 
