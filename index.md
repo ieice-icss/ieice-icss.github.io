@@ -39,13 +39,11 @@ title: トップページ
 |テーマ|インターネットセキュリティ、一般|
 |共催|[IA研究会](https://www.ieice.org/cs/ia/jpn/doku.php)|
 
-
-- [発表申込](https://ken.ieice.org/ken/form/index.php?tgs_regid=ecd962f198d45cdc1bd15cc0fce03b36360fa2e399370fdd59d490d58a2cb8f4&tgid=IEICE-ICSS)
-- 開催プログラム(TBA)
+- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=ecd962f198d45cdc1bd15cc0fce03b36360fa2e399370fdd59d490d58a2cb8f4&tgid=IEICE-ICSS)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
-- [ ] 発表申込締切:2025/04/18(金)
+- [x] 発表申込締切:2025/04/18(金)
 - [ ] 原稿提出締切:2025/06/02(月)
 - [ ] 研究会開催日:2025/06/23(月)-24(火)
 
