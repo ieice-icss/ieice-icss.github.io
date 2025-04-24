@@ -4,12 +4,12 @@ title: トップページ
 ---
 
 ## お知らせ
+- [2024年度ICSS研究賞受賞論文を掲載しました(2024/04/25)](award.html)
 - [第71回ICSS/IA合同研究会を広島大学 東千田キャンパス（広島県広島市）で開催します](#%E7%AC%AC71%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [第72回合同研究会(Security Summer Summit)を札幌コンベンションセンター（北海道札幌市）で開催します](#%E7%AC%AC72%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [【CFP】英文論文誌：情報通信システムセキュリティ小特集(2026/06発刊)の投稿論文を募集します](#cfp%E8%8B%B1%E6%96%87%E8%AB%96%E6%96%87%E8%AA%8C%E6%83%85%E5%A0%B1%E9%80%9A%E4%BF%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%B0%8F%E7%89%B9%E9%9B%86202606%E7%99%BA%E5%88%8A)
 - ICSS研が協賛する[AsiaJCIS2025](https://asiajcis2025.sch.ac.kr/)が2025/08/12～12に韓国ソウルで開催されます
 - ICSS研が協賛する[CANS2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)が2025/11/17～20にグランキューブ大阪(大阪府大阪市)で開催されます
-- [2023年度ICSS研究賞受賞論文を掲載しました(2024/06/17)](award.html)
 
 <details>
 <summary>過去のお知らせ</summary>
