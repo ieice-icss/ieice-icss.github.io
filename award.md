@@ -22,25 +22,25 @@ title: ICSS研究賞
 
 ### 2024年度
 
-[(ICSS2024-45) 電波強度差によるEvil Twin攻撃の成功率調査 ～ 負荷状態および接続要求floodによる成功率の変化 ～](https://ken.ieice.org/ken/paper/202407224c3R/)
+[(ICSS2024-45) 電波強度差によるEvil Twin攻撃の成功率調査 ～ 負荷状態および接続要求floodによる成功率の変化 ～](https://ken.ieice.org/ken/paper/202407224c3R/)   
 ○安田誠崇・高野知佐・稲村勝樹（広島市大）
 
-[(ICSS2024-76) 大規模言語モデルを用いたIoTマルウェア通信のシグネチャ生成システム](https://ken.ieice.org/ken/paper/20250306Zc8z/)
+[(ICSS2024-76) 大規模言語モデルを用いたIoTマルウェア通信のシグネチャ生成システム](https://ken.ieice.org/ken/paper/20250306Zc8z/)   
 ○篠宮一真・神谷和憲・浜田泰幸・高橋健司（NTT）
 
-[(ICSS2024-77) Sinkhole観測データとISP大規模フローデータの突合による多重感染実態の調査](https://ken.ieice.org/ken/paper/20250306LcJ6/)
+[(ICSS2024-77) Sinkhole観測データとISP大規模フローデータの突合による多重感染実態の調査](https://ken.ieice.org/ken/paper/20250306LcJ6/)   
 ○村上洸介・中原正隆（KDDI総合研究所/KDDI）・松中隆志（KDDI総合研究所）・窪田　歩（KDDI総合研究所/KDDI）
 
-[(ICSS2024-81) GitHub Actionsのセキュアな運用に関する大規模実態調査](https://ken.ieice.org/ken/paper/20250306Ac8F/)
+[(ICSS2024-81) GitHub Actionsのセキュアな運用に関する大規模実態調査](https://ken.ieice.org/ken/paper/20250306Ac8F/)   
 ○久保佑介（NTTコミュニケーションズ）・若井琢朗（早大）・森　達哉（早大/NICT/理研）
 
-[(ICSS2024-97) LLMコンパイラを用いたバイナリコードからのテイント解析の検討](https://ken.ieice.org/ken/paper/20250307dcJq/)
+[(ICSS2024-97) LLMコンパイラを用いたバイナリコードからのテイント解析の検討](https://ken.ieice.org/ken/paper/20250307dcJq/)   
 ○杉原　佑・瀧田　愼・下向井睦希・葛野弘樹（神戸大）・掛井将平（名工大）・白石善明（神戸大）
 
-[(ICSS2024-114) データセットのアノテーション規則とMSFがLiDAR物体検出への敵対的攻撃に及ぼす影響の評価](https://ken.ieice.org/ken/paper/20250307GcJ3/)
+[(ICSS2024-114) データセットのアノテーション規則とMSFがLiDAR物体検出への敵対的攻撃に及ぼす影響の評価](https://ken.ieice.org/ken/paper/20250307GcJ3/)   
 ○小林竜之輔（早大）・野本一輝（早大/DTCY）・田中優奈・鶴岡　豪（早大）・森　達哉（早大/NICT/理研AIP）
 
-[(ICSS2024-118) アクセス頻度が低くとも信頼できるドメイン名の収集法](https://ken.ieice.org/ken/paper/20250307fc8f/)
+[(ICSS2024-118) アクセス頻度が低くとも信頼できるドメイン名の収集法](https://ken.ieice.org/ken/paper/20250307fc8f/)   
 ○千葉大紀・中野弘樹・小出　駿（NTTセキュリティホールディングス/NTT）
 
 ### 2023年度
