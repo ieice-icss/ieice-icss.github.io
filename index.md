@@ -61,13 +61,11 @@ title: トップページ
 |共催|BioX, EMM, HWS, ISEC, SITE|
 |連催|IPSJ-CSEC, IPSJ-SPT|
 
-
-- [発表申込](https://ken.ieice.org/ken/form/index.php?tgs_regid=7a8413451964447d206e23030452f432947c8e4709d99910ec06cb619c1464ba&tgid=IEICE-ICSS)
-- 開催プログラム(TBA)
+- [開催プログラム](https://ken.ieice.org/ken/program/index.php?mode=program&tgs_regid=7a8413451964447d206e23030452f432947c8e4709d99910ec06cb619c1464ba&tgid=ICSS)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
-- [ ] 発表申込締切:2025/05/12(月)
+- [x] 発表申込締切:2025/05/12(月)
 - [ ] 原稿提出締切:2025/06/09(月)ごろ
 - [ ] 研究会開催日:2025/07/07(月)-09(水)
 
@@ -87,10 +85,10 @@ title: トップページ
 
 ## 今後の研究会日程
 
-### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://www.ieice.org/ken/program/index.php?tgid=ICSS)
+### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://ken.ieice.org/ken/program/index.php?tgid=ICSS)
 
 ### 第71回ICSS/IA合同研究会
-- 日程:2025/06/23-24
+- 日程:2025/06/23(月)-24(火)
 - 会場:広島大学 東千田キャンパス（広島県広島市）
 - 共催:IA
 
