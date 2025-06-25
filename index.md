@@ -31,6 +31,7 @@ title: トップページ
  - ICSS研究会Webページをリニューアルしました(2023/05/08)
 </div>
 </details>
+
 ## 第72回合同研究会(Security Summer Summit)を開催します
 
 ### 開催概要
