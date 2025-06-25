@@ -87,10 +87,6 @@ title: トップページ
 
 ### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://ken.ieice.org/ken/program/index.php?tgid=ICSS)
 
-### 第71回ICSS/IA合同研究会
-- 日程:2025/06/23(月)-24(火)
-- 会場:広島大学 東千田キャンパス（広島県広島市）
-- 共催:IA
 
 ### 第72回合同研究会(通称:Security Summer Summit)
 - 日程:2025/07/07(月)-09(水)
