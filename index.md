@@ -4,7 +4,6 @@ title: トップページ
 ---
 
 ## お知らせ
-- [第72回合同研究会(Security Summer Summit)を札幌コンベンションセンター（北海道札幌市）で開催します](#%E7%AC%AC72%E5%9B%9E%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9Asecurity-summer-summit%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - [第73回ICSS研究会を遊学館（山形県山形市）で開催します](#%E7%AC%AC73%E5%9B%9Eicss%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
 - ICSS研が協賛する[AsiaJCIS2025](https://asiajcis2025.sch.ac.kr/)が2025/08/12～12に韓国ソウルで開催されます
 - ICSS研が協賛する[CANS2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)が2025/11/17～20にグランキューブ大阪(大阪府大阪市)で開催されます
@@ -12,6 +11,7 @@ title: トップページ
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
+ - [第72回合同研究会(Security Summer Summit)を札幌コンベンションセンター（北海道札幌市）で開催しました]
  - [2024年度ICSS研究賞受賞論文を掲載しました(2025/04/25)](award.html)
  - [【CFP】英文論文誌：情報通信システムセキュリティ小特集(2026/06発刊)の投稿論文を募集しました](https://www.ieice.org/eng/s_issue/cfp/2026_6ED.pdf)
  - [第71回ICSS/IA合同研究会を広島大学 東千田キャンパス（広島県広島市）で開催しました](#%E7%AC%AC71%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
