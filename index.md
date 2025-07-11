@@ -31,9 +31,6 @@ title: トップページ
 </div>
 </details>
 
-## 第72回合同研究会(Security Summer Summit)を開催します
-
-### 開催概要
 
 ## 第73回ICSS研究会を開催します
 
