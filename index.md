@@ -61,11 +61,6 @@ title: トップページ
 ### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://ken.ieice.org/ken/program/index.php?tgid=ICSS)
 
 
-### 第72回合同研究会(通称:Security Summer Summit)
-- 日程:2025/07/07(月)-09(水)
-- 会場:札幌コンベンションセンター
-- 共催:BioX, EMM, HWS, ISEC, SITE
-- 連催:IPSJ-CSEC, IPSJ-SPT
 
 ### 第73回ICSS研究会
 - 日程:2025/11/04(火)-05(水)
