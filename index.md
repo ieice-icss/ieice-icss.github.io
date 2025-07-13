@@ -11,7 +11,7 @@ title: トップページ
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
- - [第72回合同研究会(Security Summer Summit)を札幌コンベンションセンター（北海道札幌市）で開催しました]
+ - [第72回合同研究会(Security Summer Summit)を札幌コンベンションセンター（北海道札幌市）で開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=7a8413451964447d206e23030452f432947c8e4709d99910ec06cb619c1464ba&tgid=IEICE-ICSS)
  - [2024年度ICSS研究賞受賞論文を掲載しました(2025/04/25)](award.html)
  - [【CFP】英文論文誌：情報通信システムセキュリティ小特集(2026/06発刊)の投稿論文を募集しました](https://www.ieice.org/eng/s_issue/cfp/2026_6ED.pdf)
  - [第71回ICSS/IA合同研究会を広島大学 東千田キャンパス（広島県広島市）で開催しました](#%E7%AC%AC71%E5%9B%9Eicssia%E5%90%88%E5%90%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
