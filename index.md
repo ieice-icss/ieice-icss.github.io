@@ -40,7 +40,7 @@ title: トップページ
 |会場|[遊学館](https://www.gakushubunka.jp/yugakukan/)（山形県山形市）|
 |テーマ|セキュリティ、一般|
 
-- [開催プログラム](https://ken.ieice.org/ken/program/index.php?instsoc=&tgid=IEICE-ICSS&year=0&region=0&sch1=1&schkey=&pnum=0&psize=2&psort=0&layout=&lang=&term=&pskey=&ps1=1&ps2=1&ps3=1&ps4=1&ps5=1&search_mode=)
+- [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=0c991fa9bb4051b9664a6af63b4f66696e0cec6cb898fd7e5cd045f80bde6524&tgid=IEICE-ICSS)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
