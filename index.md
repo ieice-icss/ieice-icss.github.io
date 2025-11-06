@@ -4,13 +4,14 @@ title: トップページ
 ---
 
 ## お知らせ
-- [第73回ICSS研究会を遊学館（山形県山形市）で開催します](#%E7%AC%AC73%E5%9B%9Eicss%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
-- ICSS研が協賛する[AsiaJCIS2025](https://asiajcis2025.sch.ac.kr/)が2025/08/12～12に韓国ソウルで開催されます
-- ICSS研が協賛する[CANS2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)が2025/11/17～20にグランキューブ大阪(大阪府大阪市)で開催されます
+
 
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
+ - [第73回ICSS研究会を遊学館（山形県山形市）で開催しました](#%E7%AC%AC73%E5%9B%9Eicss%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99)
+ - ICSS研が協賛する[AsiaJCIS2025](https://asiajcis2025.sch.ac.kr/)が2025/08/12～12に韓国ソウルで開催されました
+ - ICSS研が協賛する[CANS2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)が2025/11/17～20にグランキューブ大阪(大阪府大阪市)で開催されました
  - [第72回合同研究会(Security Summer Summit)を札幌コンベンションセンター（北海道札幌市）で開催しました](https://ken.ieice.org/ken/program/index.php?tgs_regid=7a8413451964447d206e23030452f432947c8e4709d99910ec06cb619c1464ba&tgid=IEICE-ICSS)
  - [2024年度ICSS研究賞受賞論文を掲載しました(2025/04/25)](award.html)
  - [【CFP】英文論文誌：情報通信システムセキュリティ小特集(2026/06発刊)の投稿論文を募集しました](https://www.ieice.org/eng/s_issue/cfp/2026_6ED.pdf)
@@ -32,21 +33,21 @@ title: トップページ
 </details>
 
 
-## 第73回ICSS研究会を開催します
+## 第74回ICSS/IPSJ-SPT合同研究会を開催します
 
 ### 開催概要
 
-|日程|2025/11/04(火)-05(水)|
-|会場|[遊学館](https://www.gakushubunka.jp/yugakukan/)（山形県山形市）|
+|日程|2026/03（日付未定）|
+|会場|沖縄県（予定）|
 |テーマ|セキュリティ、一般|
 
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=0c991fa9bb4051b9664a6af63b4f66696e0cec6cb898fd7e5cd045f80bde6524&tgid=IEICE-ICSS)
 - [研究会に参加(発表・聴講)するには](#%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E5%8F%82%E5%8A%A0%E7%99%BA%E8%A1%A8%E8%81%B4%E8%AC%9B%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
 ### スケジュール
-- [x] 発表申込締切:2025/~~09/09(火)~~ **9/16(火)** **※延長しました**
-- [x] 原稿提出締切:2025/10/14(火)
-- [ ] 研究会開催日:2025/11/04(火)-05(水)
+- [ ] 発表申込締切:未定
+- [ ] 原稿提出締切:未定
+- [ ] 研究会開催日:2026/03（日付未定）
 
 ### 注意事項
 - 発表は現地参加のみを予定しています。
@@ -56,12 +57,6 @@ title: トップページ
 ## 今後の研究会日程
 
 ### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://ken.ieice.org/ken/program/index.php?tgid=ICSS)
-
-
-
-### 第73回ICSS研究会
-- 日程:2025/11/04(火)-05(水)
-- 会場:遊学館（山形県山形市）
 
 ### 第74回ICSS/IPSJ-SPT合同研究会
 - 日程:2026/03/DD
