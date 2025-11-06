@@ -4,14 +4,13 @@ title: トップページ
 ---
 
 ## お知らせ
-
+ - ICSS研が協賛する[CANS2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)が2025/11/17～20にグランキューブ大阪(大阪府大阪市)で開催されます
 
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
  - 第73回ICSS研究会を遊学館（山形県山形市）で開催しました(2025年11月)
  - ICSS研が協賛する[AsiaJCIS2025](https://asiajcis2025.sch.ac.kr/)が2025/08/12～12に韓国ソウルで開催されました
- - ICSS研が協賛する[CANS2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)が2025/11/17～20にグランキューブ大阪(大阪府大阪市)で開催されました
  - 第72回合同研究会(Security Summer Summit)を札幌コンベンションセンター（北海道札幌市）で開催しました
  - [2024年度ICSS研究賞受賞論文を掲載しました(2025/04/25)](award.html)
  - [【CFP】英文論文誌：情報通信システムセキュリティ小特集(2026/06発刊)の投稿論文を募集しました](https://www.ieice.org/eng/s_issue/cfp/2026_6ED.pdf)
