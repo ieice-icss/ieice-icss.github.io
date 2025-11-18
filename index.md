@@ -37,7 +37,7 @@ title: トップページ
 ### 開催概要
 
 |日程|2026/03/03(火)-03/04(木)|
-|会場|沖縄県立美術館・博物館（おきみゅー）(https://okimu.jp/)|
+|会場|[沖縄県立美術館・博物館（おきみゅー）](https://okimu.jp/)|
 |テーマ|セキュリティ、一般|
 
 - [開催プログラム](https://ken.ieice.org/ken/program/index.php?tgs_regid=0c991fa9bb4051b9664a6af63b4f66696e0cec6cb898fd7e5cd045f80bde6524&tgid=IEICE-ICSS)
@@ -59,7 +59,7 @@ title: トップページ
 
 ### 第74回ICSS/IPSJ-SPT合同研究会
 - 日程:2026/03/03(火)-03/04(木)
-- 会場:沖縄県立美術館・博物館（おきみゅー）(https://okimu.jp/)
+- 会場:[沖縄県立美術館・博物館（おきみゅー）](https://okimu.jp/)
 - 連催:情報処理学会　SPT研究会
 
 ### 第75回ICSS/IPSJ-IA合同研究会
