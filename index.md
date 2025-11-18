@@ -31,7 +31,6 @@ title: トップページ
 </div>
 </details>
 
-
 ## 第74回ICSS/IPSJ-SPT合同研究会を開催します
 
 ### 開催概要
