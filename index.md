@@ -4,11 +4,12 @@ title: トップページ
 ---
 
 ## お知らせ
- - ICSS研が協賛する[CANS2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)が2025/11/17～20にグランキューブ大阪(大阪府大阪市)で開催されます
+ - 第74回ICSS/SPT合同研究会を沖縄県立美術館・博物館（おきみゅー）（沖縄県那覇市）で開催します
 
 <details>
 <summary>過去のお知らせ</summary>
 <div markdown="1">
+ - ICSS研が協賛する[CANS2025](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/event/cans2025/index.html)が2025/11/17～20にグランキューブ大阪(大阪府大阪市)で開催されました
  - 第73回ICSS研究会を遊学館（山形県山形市）で開催しました(2025年11月)
  - ICSS研が協賛する[AsiaJCIS2025](https://asiajcis2025.sch.ac.kr/)が2025/08/12～12に韓国ソウルで開催されました
  - 第72回合同研究会(Security Summer Summit)を札幌コンベンションセンター（北海道札幌市）で開催しました
