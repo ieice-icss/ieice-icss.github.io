@@ -4,7 +4,7 @@ title: トップページ
 ---
 
 ## お知らせ
- - 第75回ICSS/IPSJ-IA合同研究会を香川県高松市で開催します（2026年6月）
+ - 第75回ICSS/IA合同研究会を香川県高松市で開催します（2026年6月）
 
 <details>
 <summary>過去のお知らせ</summary>
@@ -33,7 +33,7 @@ title: トップページ
 </div>
 </details>
 
-## 第75回ICSS/IPSJ-IA合同研究会を開催します
+## 第75回ICSS/IA合同研究会を開催します
 
 ### 開催概要
 
@@ -58,7 +58,7 @@ title: トップページ
 
 ### [研究会発表申込システム(ICSS研究会 開催スケジュール)](https://ken.ieice.org/ken/program/index.php?tgid=ICSS)
 
-### 第75回ICSS/IPSJ-IA合同研究会
+### 第75回ICSS/IA合同研究会
 - 日程:2026/06/17-18
 - 会場:香川県高松市(予定)
 - 連催:IA研究会
