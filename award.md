@@ -20,6 +20,31 @@ title: ICSS研究賞
 
 ## 受賞論文
 
+### 2025年度
+[(ICSS2025-31) Github Actionsを通じたSBOMの活用に関する実態調査](https://ken.ieice.org/ken/paper/202507075cl6/)
+○鐘本　楊・荒川 (西村) 玲佳・秋山満昭（NTT）
+
+[(ICSS2025-80) SBOMに基づくパッケージの差分を考慮したソフトウェアのリスク評価指標の提案](https://ken.ieice.org/ken/paper/20251105mcOF/)
+○荒川玲佳・鐘本　楊（NTT）
+
+[(ICSS2025-86) LINEグループ通信に対するTamarin-Proverを用いた安全性自動検証](https://ken.ieice.org/ken/paper/20260303Wcsk/)
+○松本岳大・田中　篤・山下恭佑・伊藤竜馬・五十部孝典（阪大）
+
+[(ICSS2025-97) 1件のURLからのフィッシングキャンペーンの発見と検知ルール生成法](https://ken.ieice.org/ken/paper/20260303acrw/)
+○千葉大紀・中野弘樹・小出　駿（NTTセキュリティホールディングス/NTT）
+
+[(ICSS2025-116) サンドボックス解析を回避する実証コード群のLLMを用いた生成](https://ken.ieice.org/ken/paper/20260304jcTZ/)
+○松澤　輝・東　志拓・グエン ティ ヴァン アン・インミン パパ（横浜国大）・田辺瑠偉（横浜国大/順天堂大）・吉岡克成（横浜国大）
+
+[(ICSS2025-118) Text-to-Imageモデルに対するデータ汚染攻撃の多言語環境での脆弱性要因と防御手法の提案](https://ken.ieice.org/ken/paper/20260304NcTW/)
+○掛林諒平（早大）・森　達哉（早大/NICT/理研）
+
+[(ICSS2025-120) OSSの依存関係を利用したソースコード解析による脆弱性影響範囲特定手法の提案](https://ken.ieice.org/ken/paper/20260304LcTR/)
+○葛野弘樹（神戸大）・矢野智彦（セコム）・面　和毅（サイオス）
+
+[(ICSS2025-136) LLMによる意思決定に潜むステレオタイプが引き起こす偏見や差別に関する影響分析](https://ken.ieice.org/ken/paper/20260304wcs4/)
+○青島達大・秋山満昭（NTT）
+
 ### 2024年度
 
 [(ICSS2024-45) 電波強度差によるEvil Twin攻撃の成功率調査 ～ 負荷状態および接続要求floodによる成功率の変化 ～](https://ken.ieice.org/ken/paper/202407224c3R/)   
