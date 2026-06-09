@@ -4,7 +4,7 @@ title: トップページ
 ---
 
 ## お知らせ
- - [【CFP】英文論文誌：情報通信システムセキュリティ小特集(2027/06発刊)の投稿締め切りを延長しました（2026年6月11日→6月24日）]([https://www.ieice.org/eng/s_issue/cfp/2027_6ED_2.pdf](https://github.com/ieice-icss/ieice-icss.github.io/blob/main/CFP_260624.pdf))
+ - [【CFP】英文論文誌：情報通信システムセキュリティ小特集(2027/06発刊)の投稿締め切りを延長しました（2026年6月11日→6月24日）](https://github.com/ieice-icss/ieice-icss.github.io/blob/main/CFP_260624.pdf)
  - 第76回合同研究会(Security Summer Summit)を札幌コンベンションセンター（北海道札幌市）で開催します（2026年7月）
  - 第75回ICSS/IA合同研究会をe-とぴあ・かがわ（香川県高松市）で開催します（2026年6月）
 
