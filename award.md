@@ -37,7 +37,7 @@ title: ICSS研究賞
 [(ICSS2025-116) サンドボックス解析を回避する実証コード群のLLMを用いた生成](https://ken.ieice.org/ken/paper/20260304jcTZ/)  
 ○松澤　輝・東　志拓・グエン ティ ヴァン アン・インミン パパ（横浜国大）・田辺瑠偉（横浜国大/順天堂大）・吉岡克成（横浜国大）
 
-[(ICSS2025-118) Text-to-Imageモデルに対するデータ汚染攻撃の多言語環境での脆弱性要因と防御手法の提案](https://ken.ieice.org/ken/paper/20260304NcTW/)  
+[(ICSS2025-118) Text-to-Imageモデルに対するデータ汚染攻撃の多言語環境における脆弱性要因の分析と緩和手法の提案](https://ken.ieice.org/ken/paper/20260304NcTW/)  
 ○掛林諒平（早大）・森　達哉（早大/NICT/理研）
 
 [(ICSS2025-120) OSSの依存関係を利用したソースコード解析による脆弱性影響範囲特定手法の提案](https://ken.ieice.org/ken/paper/20260304LcTR/)  
